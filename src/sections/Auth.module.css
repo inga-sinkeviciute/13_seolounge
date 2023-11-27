@@ -1,0 +1,5 @@
+.mainTitle {
+	font-size: clamp(2rem, 5vw, 4rem);
+	/* --x: 20px; */
+	/* font-size: calc(2rem + 3vw + var(--x)); */
+}

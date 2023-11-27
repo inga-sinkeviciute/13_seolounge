@@ -1,0 +1,4 @@
+.heroSection {
+	background-image: url("http://localhost:3000/img/hero.png");
+	background-size: cover;
+}
